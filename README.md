@@ -12,10 +12,17 @@
 [Здесь](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189) доступна подборка книг издательства Springer, доступных для свободной загрузки, по компьютерным наукам, компьютерному зрению, машинному обучению и науке о данных. [Здесь](https://link.springer.com/search/page/3?facet-content-type="Book"&package=openaccess) - полный список книг издательства Springer, выложенных в открытый доступ для свободной загрузки.
 
 
+## Материалы занятий
 
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
 | Лекция 0 | 17.09.2020 | Вводная лекция.<br />От линейных моделей к нейронным сетям. Часть 1 | [материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect01);<br />[видеозапись](https://www.dropbox.com/s/aucsed48shivyex/Lect01-record.mp4?dl=0) |
+
+
+## Домашние задания
+| Title | Date issued |  Deadline  | Topic | Content |
+| ----- | ----------- | ---------- | ----- | ------- |
+| ДЗ №1 | 18.09.2020  | 24.09.2020 | Градиентный спуск своими руками | [описание и данные](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW01) |
 
 
 ### Рекомендуемая литература
