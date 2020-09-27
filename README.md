@@ -24,6 +24,7 @@
 | Title | Date issued |  Deadline  | Topic | Content |
 | ----- | ----------- | ---------- | ----- | ------- |
 | ДЗ №1 | 18.09.2020  | 24.09.2020 | Градиентный спуск своими руками | [описание и данные](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW01) |
+| ДЗ №2 | 27.09.2020  | 14.10.2020 | Обучение трехслойного перцептрона | [описание](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW02) |
 
 
 ### Рекомендуемая литература
