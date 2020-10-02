@@ -16,8 +16,10 @@
 
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
-| Лекция 0 | 17.09.2020 | Вводная лекция.<br />От линейных моделей к нейронным сетям. Часть 1 | [материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect01);<br />[видеозапись](https://www.dropbox.com/s/aucsed48shivyex/Lect01-record.mp4?dl=0) |
-| Лекция 1 | 24.09.2020 | Вероятностные основы линейных моделей. <br />Обобщенные линейные модели. Перцептрон. | [материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect02);<br />[видеозапись](https://www.dropbox.com/s/n7dm1uwjnot4rz5/Lect02-record.mp4?dl=0) |
+| Лекция 1 | 17.09.2020 | Вводная лекция.<br />От линейных моделей к нейронным сетям. Часть 1 | [материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect01);<br />[видеозапись](https://www.dropbox.com/s/aucsed48shivyex/Lect01-record.mp4?dl=0) |
+| Лекция 2 | 24.09.2020 | Вероятностные основы линейных моделей. <br />Обобщенные линейные модели. Перцептрон. | [материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect02);<br />[видеозапись](https://www.dropbox.com/s/n7dm1uwjnot4rz5/Lect02-record.mp4?dl=0) |
+| Лекция 3 | 01.10.2020 | Технические аспекты вычисления градиента функции потерь глубоких нейронных сетей.<br />Особенности оптимизации функции потерь. | [видеозапись](https://www.dropbox.com/s/dpfwrirrvw2jvx5/Lect03-record.mp4?dl=0) |
+
 
 
 ## Домашние задания
