@@ -19,6 +19,8 @@
 | Лекция 1 | 17.09.2020 | Вводная лекция.<br />От линейных моделей к нейронным сетям. Часть 1 | [материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect01);<br />[видеозапись](https://www.dropbox.com/s/aucsed48shivyex/Lect01-record.mp4?dl=0) |
 | Лекция 2 | 24.09.2020 | Вероятностные основы линейных моделей. <br />Обобщенные линейные модели. Перцептрон. | [материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect02);<br />[видеозапись](https://www.dropbox.com/s/n7dm1uwjnot4rz5/Lect02-record.mp4?dl=0) |
 | Лекция 3 | 01.10.2020 | Технические аспекты вычисления градиента функции потерь глубоких нейронных сетей.<br />Особенности оптимизации функции потерь. | [видеозапись](https://www.dropbox.com/s/go3bqm9az8zwmuz/Lect03-record.mp4?dl=0) |
+| Лекция 4 | 08.10.2020 | Особенности оптимизации функции потерь (продолжение)<br />Вопросы инициализации параметров. | [видеозапись](https://www.dropbox.com/s/exlrippv0qum5au/Lect04.mp4?dl=0) |
+
 
 
 
@@ -27,6 +29,7 @@
 | ----- | ----------- | ---------- | ----- | ------- |
 | ДЗ №1 | 18.09.2020  | 24.09.2020 | Градиентный спуск своими руками | [описание и данные](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW01) |
 | ДЗ №2 | 27.09.2020  | 14.10.2020 | Обучение трехслойного перцептрона | [описание](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW02) |
+| ДЗ №3 | 10.10.2020  | 17.10.2020 | Обучение моделей глубокого обучения на PyTorch | [описание](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW03) |
 
 
 ### Рекомендуемая литература
