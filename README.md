@@ -21,6 +21,8 @@
 | Лекция 3 | 01.10.2020 | Технические аспекты вычисления градиента функции потерь глубоких нейронных сетей.<br />Особенности оптимизации функции потерь. | [видеозапись](https://www.dropbox.com/s/go3bqm9az8zwmuz/Lect03-record.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW03)|
 | Лекция 4 | 08.10.2020 | Особенности оптимизации функции потерь (продолжение)<br />Вопросы инициализации параметров. | [видеозапись](https://www.dropbox.com/s/exlrippv0qum5au/Lect04.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect04) |
 | Лекция 5 | 15.10.2020 | Особенности оптимизации функции потерь (продолжение)<br />Пакетная нормализация и регуляризации. | [видеозапись](https://www.dropbox.com/s/sojxmymazp66eks/Lect05.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect05) |
+| Лекция 6 | 22.10.2020 | Циркулянт и операция дискретной циклической свертки<br />Сверточные нейронные сети. | [видеозапись](https://www.dropbox.com/s/7qvoh53y2g5udnp/Lect06.mp4?dl=0) |
+
 
 
 
@@ -30,6 +32,7 @@
 | ДЗ №1 | 18.09.2020  | 24.09.2020 | Градиентный спуск своими руками | [описание и данные](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW01) |
 | ДЗ №2 | 27.09.2020  | 14.10.2020 | Обучение трехслойного перцептрона | [описание](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW02) |
 | ДЗ №3 | 10.10.2020  | 17.10.2020 | Оптимизация многослойного перцептрона на PyTorch | [описание](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW03) |
+| ДЗ №4 | 23.10.2020  | 30.10.2020 | Обзор последних исследовательских статей по искусственным нейронным сетям | [Описание и список статей](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW04) |
 
 
 ### Рекомендуемая литература
