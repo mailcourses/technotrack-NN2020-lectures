@@ -25,14 +25,14 @@
 | [(Dong and Yang, 2019) "Network Pruning via Transformable Architecture Search"](http://papers.nips.cc/paper/8364-network-pruning-via-transformable-architecture-search) | - |
 | [(Gower et al., 2019) "RSN: Randomized Subspace Newton"](http://papers.nips.cc/paper/8351-rsn-randomized-subspace-newton) | - |
 | [(Hanin and Rolnick, 2019) "Deep ReLU Networks Have Surprisingly Few Activation Patterns"](http://papers.nips.cc/paper/8328-deep-relu-networks-have-surprisingly-few-activation-patterns) | - |
-| [(He et al., 2019) "Control Batch Size and Learning Rate to Generalize Well: Theoretical and Empirical Evidence"](http://papers.nips.cc/paper/8398-control-batch-size-and-learning-rate-to-generalize-well-theoretical-and-empirical-evidence) | - |
+| [(He et al., 2019) "Control Batch Size and Learning Rate to Generalize Well: Theoretical and Empirical Evidence"](http://papers.nips.cc/paper/8398-control-batch-size-and-learning-rate-to-generalize-well-theoretical-and-empirical-evidence) | Дмитрий Мокеев |
 | [(Huang et al., 2019) "GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism"](http://papers.nips.cc/paper/8305-gpipe-efficient-training-of-giant-neural-networks-using-pipeline-parallelism) | - |
 | [(Ioannou et al., 2019) "SySCD: A System-Aware Parallel Coordinate Descent Algorithm"](http://papers.nips.cc/paper/8349-syscd-a-system-aware-parallel-coordinate-descent-algorithm) | - |
 | [(Kusumoto et al., 2019) "A Graph Theoretic Framework of Recomputation Algorithms for Memory-Efficient Backpropagation"](http://papers.nips.cc/paper/8400-a-graph-theoretic-framework-of-recomputation-algorithms-for-memory-efficient-backpropagation) | - |
 | [(Lamy et al., 2019) "Noise-tolerant fair classification"](http://papers.nips.cc/paper/8322-noise-tolerant-fair-classification) | - |
-| [(Li et al., 2019) "Positional Normalization"](http://papers.nips.cc/paper/8440-positional-normalization) | - |
-| [(Li, 2019) "SSRGD: Simple Stochastic Recursive Gradient Descent for Escaping Saddle Points"](http://papers.nips.cc/paper/8431-ssrgd-simple-stochastic-recursive-gradient-descent-for-escaping-saddle-points) | - |
+| [(Li et al., 2019) "Positional Normalization"](http://papers.nips.cc/paper/8440-positional-normalization) | Владислав Радамович |
+| [(Li, 2019) "SSRGD: Simple Stochastic Recursive Gradient Descent for Escaping Saddle Points"](http://papers.nips.cc/paper/8431-ssrgd-simple-stochastic-recursive-gradient-descent-for-escaping-saddle-points) | Всеволод Скороходов |
 | [(Neverova et al., 2019) "Correlated Uncertainty for Learning Dense Correspondences from Noisy Labels"](http://papers.nips.cc/paper/8378-correlated-uncertainty-for-learning-dense-correspondences-from-noisy-labels) | - |
 | [(Nguyen et al., 2019) "First Exit Time Analysis of Stochastic Gradient Descent Under Heavy-Tailed Gradient Noise"](http://papers.nips.cc/paper/8320-first-exit-time-analysis-of-stochastic-gradient-descent-under-heavy-tailed-gradient-noise) | - |
 | [(Vladymyrov, 2019) "No Pressure! Addressing the Problem of Local Minima in Manifold Learning Algorithms"](http://papers.nips.cc/paper/8357-no-pressure-addressing-the-problem-of-local-minima-in-manifold-learning-algorithms) | - |
-| [(Wu et al., 2019) "Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers"](http://papers.nips.cc/paper/8298-stochastic-shared-embeddings-data-driven-regularization-of-embedding-layers) | - |
+| [(Wu et al., 2019) "Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers"](http://papers.nips.cc/paper/8298-stochastic-shared-embeddings-data-driven-regularization-of-embedding-layers) | Самир Новрузов |
