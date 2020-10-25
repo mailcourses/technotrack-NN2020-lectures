@@ -21,7 +21,7 @@
 | Лекция 3 | 01.10.2020 | Технические аспекты вычисления градиента функции потерь глубоких нейронных сетей.<br />Особенности оптимизации функции потерь. | [видеозапись](https://www.dropbox.com/s/go3bqm9az8zwmuz/Lect03-record.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW03)|
 | Лекция 4 | 08.10.2020 | Особенности оптимизации функции потерь (продолжение)<br />Вопросы инициализации параметров. | [видеозапись](https://www.dropbox.com/s/exlrippv0qum5au/Lect04.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect04) |
 | Лекция 5 | 15.10.2020 | Особенности оптимизации функции потерь (продолжение)<br />Пакетная нормализация и регуляризации. | [видеозапись](https://www.dropbox.com/s/sojxmymazp66eks/Lect05.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect05) |
-| Лекция 6 | 22.10.2020 | Циркулянт и операция дискретной циклической свертки<br />Сверточные нейронные сети. | [видеозапись](https://www.dropbox.com/s/7qvoh53y2g5udnp/Lect06.mp4?dl=0) |
+| Лекция 6 | 22.10.2020 | Циркулянт и операция дискретной циклической свертки<br />Сверточные нейронные сети. | [видеозапись](https://www.dropbox.com/s/7qvoh53y2g5udnp/Lect06.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect06) |
 
 
 
