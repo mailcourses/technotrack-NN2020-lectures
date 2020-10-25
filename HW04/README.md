@@ -29,7 +29,7 @@
 | [(Huang et al., 2019) "GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism"](http://papers.nips.cc/paper/8305-gpipe-efficient-training-of-giant-neural-networks-using-pipeline-parallelism) | - |
 | [(Ioannou et al., 2019) "SySCD: A System-Aware Parallel Coordinate Descent Algorithm"](http://papers.nips.cc/paper/8349-syscd-a-system-aware-parallel-coordinate-descent-algorithm) | - |
 | [(Kusumoto et al., 2019) "A Graph Theoretic Framework of Recomputation Algorithms for Memory-Efficient Backpropagation"](http://papers.nips.cc/paper/8400-a-graph-theoretic-framework-of-recomputation-algorithms-for-memory-efficient-backpropagation) | - |
-| [(Lamy et al., 2019) "Noise-tolerant fair classification"](http://papers.nips.cc/paper/8322-noise-tolerant-fair-classification) | - |
+| [(Lamy et al., 2019) "Noise-tolerant fair classification"](http://papers.nips.cc/paper/8322-noise-tolerant-fair-classification) | Святослав Власов |
 | [(Li et al., 2019) "Positional Normalization"](http://papers.nips.cc/paper/8440-positional-normalization) | Владислав Радамович |
 | [(Li, 2019) "SSRGD: Simple Stochastic Recursive Gradient Descent for Escaping Saddle Points"](http://papers.nips.cc/paper/8431-ssrgd-simple-stochastic-recursive-gradient-descent-for-escaping-saddle-points) | Всеволод Скороходов |
 | [(Neverova et al., 2019) "Correlated Uncertainty for Learning Dense Correspondences from Noisy Labels"](http://papers.nips.cc/paper/8378-correlated-uncertainty-for-learning-dense-correspondences-from-noisy-labels) | Арсений Белков |
