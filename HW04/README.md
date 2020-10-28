@@ -18,7 +18,7 @@
 
 | Ссылка на статью | Рецензент |
 | ----- | ---- |
-| [(Akrout et al., 2019) "Deep Learning without Weight Transport"](http://papers.nips.cc/paper/8383-deep-learning-without-weight-transport) | - |
+| [(Akrout et al., 2019) "Deep Learning without Weight Transport"](http://papers.nips.cc/paper/8383-deep-learning-without-weight-transport) | Булат Исламов |
 | [(Bernstein and Sheldon, 2019) "Differentially Private Bayesian Linear Regression"](http://papers.nips.cc/paper/8343-differentially-private-bayesian-linear-regression) | Андрей Щеглов |
 | [(Defazio, 2019) "On the Curved Geometry of Accelerated Optimization"](http://papers.nips.cc/paper/8453-on-the-curved-geometry-of-accelerated-optimization) | - |
 | [(Defazio and Bottou, 2019) "On the Ineffectiveness of Variance Reduced Optimization for Deep Learning"](http://papers.nips.cc/paper/8452-on-the-ineffectiveness-of-variance-reduced-optimization-for-deep-learning) | - |
