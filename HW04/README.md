@@ -24,7 +24,7 @@
 | [(Defazio and Bottou, 2019) "On the Ineffectiveness of Variance Reduced Optimization for Deep Learning"](http://papers.nips.cc/paper/8452-on-the-ineffectiveness-of-variance-reduced-optimization-for-deep-learning) | Альберт Симонян |
 | [(Dong and Yang, 2019) "Network Pruning via Transformable Architecture Search"](http://papers.nips.cc/paper/8364-network-pruning-via-transformable-architecture-search) | - |
 | [(Gower et al., 2019) "RSN: Randomized Subspace Newton"](http://papers.nips.cc/paper/8351-rsn-randomized-subspace-newton) | Анатолий Мастрюков |
-| [(Hanin and Rolnick, 2019) "Deep ReLU Networks Have Surprisingly Few Activation Patterns"](http://papers.nips.cc/paper/8328-deep-relu-networks-have-surprisingly-few-activation-patterns) | - |
+| [(Hanin and Rolnick, 2019) "Deep ReLU Networks Have Surprisingly Few Activation Patterns"](http://papers.nips.cc/paper/8328-deep-relu-networks-have-surprisingly-few-activation-patterns) | Игорь Кудряшов |
 | [(He et al., 2019) "Control Batch Size and Learning Rate to Generalize Well: Theoretical and Empirical Evidence"](http://papers.nips.cc/paper/8398-control-batch-size-and-learning-rate-to-generalize-well-theoretical-and-empirical-evidence) | Дмитрий Мокеев |
 | [(Huang et al., 2019) "GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism"](http://papers.nips.cc/paper/8305-gpipe-efficient-training-of-giant-neural-networks-using-pipeline-parallelism) | - |
 | [(Ioannou et al., 2019) "SySCD: A System-Aware Parallel Coordinate Descent Algorithm"](http://papers.nips.cc/paper/8349-syscd-a-system-aware-parallel-coordinate-descent-algorithm) | - |
