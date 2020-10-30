@@ -21,7 +21,7 @@
 | [(Akrout et al., 2019) "Deep Learning without Weight Transport"](http://papers.nips.cc/paper/8383-deep-learning-without-weight-transport) | Булат Исламов |
 | [(Bernstein and Sheldon, 2019) "Differentially Private Bayesian Linear Regression"](http://papers.nips.cc/paper/8343-differentially-private-bayesian-linear-regression) | Андрей Щеглов |
 | [(Defazio, 2019) "On the Curved Geometry of Accelerated Optimization"](http://papers.nips.cc/paper/8453-on-the-curved-geometry-of-accelerated-optimization) | - |
-| [(Defazio and Bottou, 2019) "On the Ineffectiveness of Variance Reduced Optimization for Deep Learning"](http://papers.nips.cc/paper/8452-on-the-ineffectiveness-of-variance-reduced-optimization-for-deep-learning) | - |
+| [(Defazio and Bottou, 2019) "On the Ineffectiveness of Variance Reduced Optimization for Deep Learning"](http://papers.nips.cc/paper/8452-on-the-ineffectiveness-of-variance-reduced-optimization-for-deep-learning) | Альберт Симонян |
 | [(Dong and Yang, 2019) "Network Pruning via Transformable Architecture Search"](http://papers.nips.cc/paper/8364-network-pruning-via-transformable-architecture-search) | - |
 | [(Gower et al., 2019) "RSN: Randomized Subspace Newton"](http://papers.nips.cc/paper/8351-rsn-randomized-subspace-newton) | Анатолий Мастрюков |
 | [(Hanin and Rolnick, 2019) "Deep ReLU Networks Have Surprisingly Few Activation Patterns"](http://papers.nips.cc/paper/8328-deep-relu-networks-have-surprisingly-few-activation-patterns) | - |
