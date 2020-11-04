@@ -22,6 +22,7 @@
 | Лекция 4 | 08.10.2020 | Особенности оптимизации функции потерь (продолжение)<br />Вопросы инициализации параметров. | [видеозапись](https://www.dropbox.com/s/exlrippv0qum5au/Lect04.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect04) |
 | Лекция 5 | 15.10.2020 | Особенности оптимизации функции потерь (продолжение)<br />Пакетная нормализация и регуляризации. | [видеозапись](https://www.dropbox.com/s/sojxmymazp66eks/Lect05.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect05) |
 | Лекция 6 | 22.10.2020 | Циркулянт и операция дискретной циклической свертки<br />Сверточные нейронные сети. | [видеозапись](https://www.dropbox.com/s/7qvoh53y2g5udnp/Lect06.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect06) |
+| Лекция 7 | 29.10.2020 | Практика<br />Современные архитектуры сверточных нейронных сетей | [видеозапись](https://www.dropbox.com/s/m727gp80hut6kel/Lect07.mp4?dl=0) |
 
 
 
