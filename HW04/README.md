@@ -33,6 +33,6 @@
 | [(Li et al., 2019) "Positional Normalization"](http://papers.nips.cc/paper/8440-positional-normalization) | Владислав Радамович |
 | [(Li, 2019) "SSRGD: Simple Stochastic Recursive Gradient Descent for Escaping Saddle Points"](http://papers.nips.cc/paper/8431-ssrgd-simple-stochastic-recursive-gradient-descent-for-escaping-saddle-points) | Всеволод Скороходов |
 | [(Neverova et al., 2019) "Correlated Uncertainty for Learning Dense Correspondences from Noisy Labels"](http://papers.nips.cc/paper/8378-correlated-uncertainty-for-learning-dense-correspondences-from-noisy-labels) | Арсений Белков |
-| [(Nguyen et al., 2019) "First Exit Time Analysis of Stochastic Gradient Descent Under Heavy-Tailed Gradient Noise"](http://papers.nips.cc/paper/8320-first-exit-time-analysis-of-stochastic-gradient-descent-under-heavy-tailed-gradient-noise) | - |
+| [(Nguyen et al., 2019) "First Exit Time Analysis of Stochastic Gradient Descent Under Heavy-Tailed Gradient Noise"](http://papers.nips.cc/paper/8320-first-exit-time-analysis-of-stochastic-gradient-descent-under-heavy-tailed-gradient-noise) | Алерон Миленькин |
 | [(Vladymyrov, 2019) "No Pressure! Addressing the Problem of Local Minima in Manifold Learning Algorithms"](http://papers.nips.cc/paper/8357-no-pressure-addressing-the-problem-of-local-minima-in-manifold-learning-algorithms) | - |
 | [(Wu et al., 2019) "Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers"](http://papers.nips.cc/paper/8298-stochastic-shared-embeddings-data-driven-regularization-of-embedding-layers) | Самир Новрузов |
