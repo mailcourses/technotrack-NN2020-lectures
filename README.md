@@ -34,6 +34,7 @@
 | ДЗ №2 | 27.09.2020  | 14.10.2020 | Обучение трехслойного перцептрона | [описание](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW02) |
 | ДЗ №3 | 10.10.2020  | 17.10.2020 | Оптимизация многослойного перцептрона на PyTorch | [описание](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW03) |
 | ДЗ №4 | 23.10.2020  | 30.10.2020 | Обзор последних исследовательских статей по искусственным нейронным сетям | [Описание и список статей](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW04) |
+| ДЗ №5 | 18.11.2020  | 26.11.2020 | Сверточная нейронная сеть на PyTorch | [описание](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW05) |
 
 
 ### Рекомендуемая литература
