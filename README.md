@@ -25,7 +25,7 @@
 | Лекция 7 | 29.10.2020 | Практика<br />Современные архитектуры сверточных нейронных сетей | [видеозапись](https://www.dropbox.com/s/m727gp80hut6kel/Lect07.mp4?dl=0) |
 | Лекция 8 | 05.11.2020 | Визуализация и интерпретация сверточных нейронных сетей<br />Снижение размерности и автокодировщики | [видеозапись](https://www.dropbox.com/s/hhzph686us2614z/Lect08.mp4?dl=0) |
 | Лекция 9 | 12.11.2020 | Снижение размерности и автокодировщики<br />Дивергенция Кульбака-Лейблера | [видеозапись](https://www.dropbox.com/s/li8wht5i33spxb0/Lect09.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect09) |
-| Лекция 10 | 19.11.2020 | Снижение размерности и автокодировщики<br />Задача выучивания расстояний (Metric Learning) | видеозапись (TBA)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect10) |
+| Лекция 10 | 19.11.2020 | Снижение размерности и автокодировщики<br />Задача выучивания расстояний (Metric Learning) | [видеозапись](https://www.dropbox.com/s/yu02mjlljb0rkwt/Lect10.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect10) |
 
 
 ## Домашние задания
