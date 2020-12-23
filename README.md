@@ -28,7 +28,8 @@
 | Лекция 10 | 19.11.2020 | Снижение размерности и автокодировщики<br />Задача выучивания расстояний (Metric Learning) | [видеозапись](https://www.dropbox.com/s/yu02mjlljb0rkwt/Lect10.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect10) |
 | Лекция 11 | 26.11.2020 | Порождающие состязательные сети<br />(Generative Adversarial Networks, GANs) | [видеозапись](https://www.dropbox.com/s/jta6q96kg893daf/Lect11.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect11) |
 | Лекция 12 | 03.12.2020 | Порождающие состязательные сети - 2<br />(Generative Adversarial Networks, GANs) | [видеозапись](https://www.dropbox.com/s/mu39b9yc4de2xxb/Lect12.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect12) |
-| Лекция 13 | 10.12.2020 | Порождающие состязательные сети - 3<br />Обработка последовательностей. Идея Word2Vec. | [видеозапись](https://www.dropbox.com/s/yszfgl8dcfjq13o/Lect13.mp4?dl=0)<br />материалы - TBA |
+| Лекция 13 | 10.12.2020 | Порождающие состязательные сети - 3<br />Обработка последовательностей. Идея Word2Vec. | [видеозапись](https://www.dropbox.com/s/yszfgl8dcfjq13o/Lect13.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect13) |
+| Лекция 14 | 17.12.2020 | Обработка последовательностей. RNN, LSTM, GRU.<br />Механизм обучаемого внимания (Attention) и архитектура Transformer. | [видеозапись](https://www.dropbox.com/s/5b5dndjml4j8fi0/Lect14.mp4?dl=0)<br />[материалы](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/Lect13) |
 
 
 
@@ -40,6 +41,7 @@
 | ДЗ №3 | 10.10.2020  | 17.10.2020 | Оптимизация многослойного перцептрона на PyTorch | [описание](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW03) |
 | ДЗ №4 | 23.10.2020  | 30.10.2020 | Обзор последних исследовательских статей по искусственным нейронным сетям | [Описание и список статей](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW04) |
 | ДЗ №5 | 18.11.2020  | 26.11.2020 | Сверточная нейронная сеть на PyTorch | [описание](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW05) |
+| ДЗ №6 | 23.12.2020  | 30.12.2020 | Рекуррентная сеть на PyTorch для обработки текстов | [описание](https://github.com/mailcourses/technotrack-NN2020-lectures/tree/master/HW06) |
 
 
 ### Рекомендуемая литература
